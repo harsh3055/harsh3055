@@ -18,6 +18,12 @@ I’m interested in solving challenging coding problems and learning new technol
 <p align="center">
   <a href="#"
     ><img
+      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="C++"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
       alt="Twitter"
       style="vertical-align: top; margin: 4px"
@@ -26,12 +32,6 @@ I’m interested in solving challenging coding problems and learning new technol
     ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"
       alt="Twitter"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <a href="#"
-    ><img
-      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-      alt="C++"
       style="vertical-align: top; margin: 4px"
   /></a>
    <br><br/>
@@ -56,7 +56,7 @@ I’m interested in solving challenging coding problems and learning new technol
   <a href="#"
     ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
-      alt="Twitter"
+      alt="vscode"
       style="vertical-align: top; margin: 4px"
   /></a>
   <a href="#"

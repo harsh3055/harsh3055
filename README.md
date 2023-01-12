@@ -55,19 +55,19 @@ I’m interested in solving challenging coding problems and learning new technol
   /></a>
   <a href="#"
     ><img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
-      alt="vscode"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <a href="#"
-    ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg"
       alt="npm"
       style="vertical-align: top; margin: 4px"
   /></a>
+  <br><br/>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
+      alt="vscode"
+      style="vertical-align: top; margin: 4px"
+  /></a>
 </p>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+      <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="" />
 </p>
-
 

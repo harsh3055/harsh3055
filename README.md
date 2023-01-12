@@ -22,8 +22,8 @@ I’m interested in solving challenging coding problems and learning new technol
       alt="C++"
       style="vertical-align: top; margin: 4px"
   /></a>
-  <a href="#"
-    ><img
+  <a href="#">
+    <img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
       alt="javascript"
       style="vertical-align: top; margin: 4px"

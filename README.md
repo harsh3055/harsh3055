@@ -25,13 +25,13 @@ I’m interested in solving challenging coding problems and learning new technol
   <a href="#"
     ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
-      alt="Twitter"
+      alt="javascript"
       style="vertical-align: top; margin: 4px"
   /></a>
   <a href="#"
     ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"
-      alt="Twitter"
+      alt="Python"
       style="vertical-align: top; margin: 4px"
   /></a>
    <br><br/>

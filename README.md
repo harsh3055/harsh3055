@@ -16,57 +16,36 @@ I’m interested in solving challenging coding problems and learning new technol
 ### - Languages and Tools...
 
 <p align="center">
-  <a href="#"
-    ><img
-      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-      alt="C++"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <a href="#">
-    <img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
-      alt="javascript"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <a href="#"
-    ><img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"
-      alt="Python"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-   <br><br/>
-  <a href="#"
-    ><img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"
-      alt="html"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-   <a href="#"
-    ><img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="CSS3"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <a href="#"
-    ><img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"
-      alt="react"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <a href="#"
-    ><img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg"
-      alt="npm"
-      style="vertical-align: top; margin: 4px"
-  /></a>
-  <br><br/>
-  <a href="#"
-    ><img
-      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
-      alt="vscode"
-      style="vertical-align: top; margin: 4px"
-  /></a>
+  <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img  alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img  alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br />
+  
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img  alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+<br />
+
+### - Libraries and Frameworks Used:
+
+<p align = "center">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<p/>
+<br />
+
+### - Databases I am familiar with:
+<p align="center">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=whit" />
+<p/>
+<br />
+
 <p align="center">
       <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="" />
 </p>

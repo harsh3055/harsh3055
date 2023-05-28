@@ -45,9 +45,5 @@ I’m interested in solving challenging coding problems and learning new technol
 <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=whit" />
 <p/>
-<br />
 
-<p align="center">
-      <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="" />
-</p>
 

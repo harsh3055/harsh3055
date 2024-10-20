@@ -9,8 +9,9 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Goswami | 💻 Full Stack Web Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-I'm a final year graduate student at ABV IIITM Gwalior pursuing B TECH in Computer Science Engeenering.
-I’m interested in solving challenging coding problems and learning new technologies.
+A Backend Developer at Altiostar - A Rakuten Symphony Company, my role is to tackle intricate coding puzzles and push the boundaries of technology. Graduating from ABV-IIITM with a BTech in Computer Science, my educational background laid the groundwork for a career where I can fuse analytical rigor with innovative problem-solving.
+
+Proficiency in C++ and a suite of modern development tools, including the MERN stack, enables me to contribute effectively to our team's successes. My passion lies in programming and full-stack development, where I employ my skills to drive advancements in backend systems, ensuring robust and scalable solutions.
 
 
 ### - Languages and Tools...

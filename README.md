@@ -54,7 +54,7 @@
  <img alt = "Jenkins" src = "https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge" />
 </p>
 
-## 📑 Databases I am familiar with:
+## 📑 Databases I'm familiar with:
 <p align="center">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />

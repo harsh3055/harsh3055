@@ -45,13 +45,14 @@
 <p align = "center">
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img alt = "Firebase" src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
- <img alt = "Linux" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img alt = "Vim" src = "https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge" />
+ <img alt = "Linux" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img alt = "Heroku" src = "https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" /><br>
  <img alt = "Kubernetes" src = "https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
  <img alt = "Jfrog" src = "https://img.shields.io/badge/JFrog-40BE46?logo=jfrog&logoColor=fff&style=for-the-badge" />
- <img alt = "Overleaf" src = "https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" />
  <img alt = "Jenkins" src = "https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge" />
+ <img alt = "Overleaf" src = "https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" />
+
 </p>
 
 ## 📑 Databases I'm familiar with:
@@ -63,8 +64,8 @@
 <p/>
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3055&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Harsh3055&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh3055&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3055&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 

@@ -8,7 +8,13 @@
 🌟 As an aspiring Full Stack Web Developer, I am passionate about the synergy between frontend aesthetics and backend functionality. With a solid foundation in HTML, CSS, and JavaScript, along with proficiency in C and C++, I am dedicated to creating seamless digital experiences and solving intricate problems.<br><br>💡 My interest goes beyond web development into the realms of Data Structures and Algorithms (DSA). I am continually honing my skills to tackle coding challenges with creativity and efficiency.<br><br>🚀 With an insatiable curiosity and a relentless drive for learning, I am eager to explore new technologies, collaborate with like-minded individuals, and contribute to the ever-evolving tech landscape.
 
 ## 🌐 Social: 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harsh.goswami98@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/harsh-goswami-1465b6195) [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/HarshGoswami27?t=S64gOCiGrJwW0qAWx9_QPw&s=09) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com/u/octothorpe27/)
+<p align = "center">
+  <a href="mailto:harsh.goswami98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/harsh-goswami-1465b6195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/HarshGoswami27?t=S64gOCiGrJwW0qAWx9_QPw&s=09"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X"></a>
+  <a href="https://leetcode.com/u/octothorpe27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" alt="LeetCode Badge"></a>
+</p>
+
 ## 💻 Programming Languages:
 <p align="center">
  <img  alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

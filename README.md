@@ -4,7 +4,7 @@
 <div align="center">  
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Goswami | 💻 Full Stack Web Developer | 🏫 IIITM Gwalior | 📍 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
+ 
 ## 💫 About Me:
 🌟 As an aspiring **Full Stack Web Developer**, I am passionate about the synergy between frontend aesthetics and backend functionality. With a solid foundation in HTML, CSS, and JavaScript, along with proficiency in C and C++, I am dedicated to creating seamless digital experiences and solving intricate problems.<br><br>💡 My interest goes beyond web development into the realms of Data Structures and Algorithms (DSA). I am continually honing my skills to tackle coding challenges with creativity and efficiency.<br><br>🚀 With an insatiable curiosity and a relentless drive for learning, I am eager to explore new technologies, collaborate with like-minded individuals, and contribute to the ever-evolving tech landscape.
 

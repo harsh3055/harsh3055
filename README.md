@@ -42,6 +42,14 @@
 <p/>
 <br />
  
+## 📑 Databases I'm familiar with:
+<p align="center">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=fff&style=for-the-badge" />
+<p/>
+ 
 ## ⚙️ Development tools:
 <p align = "center">
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -53,16 +61,8 @@
  <img alt = "Jfrog" src = "https://img.shields.io/badge/JFrog-40BE46?logo=jfrog&logoColor=fff&style=for-the-badge" />
  <img alt = "Jenkins" src = "https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge" />
  <img alt = "Overleaf" src = "https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" />
-
 </p>
 
-## 📑 Databases I'm familiar with:
-<p align="center">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=fff&style=for-the-badge" />
-<p/>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3055&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>

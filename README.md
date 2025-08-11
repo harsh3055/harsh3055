@@ -8,7 +8,7 @@
 ## 💫 About Me: 
 🌟 As an aspiring **C++, Java, MERN Developer**, I am passionate about the synergy between frontend aesthetics and backend functionality. With a solid foundation in **C++** and **Java**, along with proficiency in **MERN Stack**, I am dedicated to creating seamless digital experiences and solving intricate problems.<br><br>💡 My interest goes beyond web development into the realms of **Data Structures and Algorithms (DSA).** I am continually honing my skills to tackle coding challenges with creativity and efficiency.<br><br>🚀 With an insatiable curiosity and a relentless drive for learning, I am eager to explore new technologies, collaborate with like-minded individuals, and contribute to the ever-evolving tech landscape. 
 
-## 🌐 Social: 
+## 🌐 Lets Connect: 
 <p align = "center">
   <a href="mailto:harsh.goswami98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/harsh-goswami-1465b6195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a>
@@ -42,7 +42,7 @@
 <p/>
 <br />
   
-## 📑 Databases I'm familiar with:
+## 📑 Database I'm familiar with:
 <p align="center">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />

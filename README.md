@@ -2,7 +2,7 @@
 
 
 <div align="center">  
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Goswami | 💻 C++ | 🖥️ Java | 💻 MERN | 🏫 IIITM Gwalior | 📍 Bangalore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🖥️ Java | 💻 C++ | 💻 MERN | 🏫 IIITM Gwalior | 📍 Bangalore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
 ## 💫 About Me: 

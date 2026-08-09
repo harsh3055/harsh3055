@@ -4,6 +4,7 @@
 <div align="center">  
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🖥️ Java | 💻 C++ | 💻 MERN | 🏫 IIITM Gwalior | 📍 Bangalore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+
 ## 💫 About Me 
 
 🌟 I am a **Backend Software Engineer** specializing in distributed systems, high-throughput microservices, and low-latency architecture. I currently build mission-critical 4G/5G telecom features handling millions of users. 

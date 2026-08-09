@@ -4,9 +4,13 @@
 <div align="center">  
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🖥️ Java | 💻 C++ | 💻 MERN | 🏫 IIITM Gwalior | 📍 Bangalore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
- 
-## 💫 About Me: 
-🌟 As an aspiring **Java and C++**, I am passionate about the synergy between frontend aesthetics and backend functionality. With a solid foundation in **C++** and **Java**, along with proficiency in **MERN Stack**, I am dedicated to creating seamless digital experiences and solving intricate problems.<br><br>💡 My interest goes beyond web development into the realms of **Data Structures and Algorithms (DSA).** I am continually honing my skills to tackle coding challenges with creativity and efficiency.<br><br>🚀 With an insatiable curiosity and a relentless drive for learning, I am eager to explore new technologies, collaborate with like-minded individuals, and contribute to the ever-evolving tech landscape. 
+## 💫 About Me 
+
+🌟 I am a **Backend Software Engineer** specializing in distributed systems, high-throughput microservices, and low-latency architecture. I currently build mission-critical 4G/5G telecom features handling millions of users. 
+
+💡 My core expertise lies in **Java, Spring Boot, and C++**. I am passionate about tackling complex backend challenges—whether it's designing in-memory caching engines that sustain 350k+ req/sec, implementing thread-safe data structures, or completely eliminating lock contention in concurrent environments.
+
+🚀 While I have full-stack foundations, my true focus is deep backend engineering and system design. I love optimizing algorithms for O(1) performance and deploying robust, containerized solutions via **Kubernetes** and **Docker**.
 
 ## 🌐 Lets Connect: 
 <p align = "center">

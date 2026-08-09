@@ -6,7 +6,7 @@
 </div>
  
 ## 💫 About Me: 
-🌟 As an aspiring **C++ and Java**, I am passionate about the synergy between frontend aesthetics and backend functionality. With a solid foundation in **C++** and **Java**, along with proficiency in **MERN Stack**, I am dedicated to creating seamless digital experiences and solving intricate problems.<br><br>💡 My interest goes beyond web development into the realms of **Data Structures and Algorithms (DSA).** I am continually honing my skills to tackle coding challenges with creativity and efficiency.<br><br>🚀 With an insatiable curiosity and a relentless drive for learning, I am eager to explore new technologies, collaborate with like-minded individuals, and contribute to the ever-evolving tech landscape. 
+🌟 As an aspiring **Java and C++**, I am passionate about the synergy between frontend aesthetics and backend functionality. With a solid foundation in **C++** and **Java**, along with proficiency in **MERN Stack**, I am dedicated to creating seamless digital experiences and solving intricate problems.<br><br>💡 My interest goes beyond web development into the realms of **Data Structures and Algorithms (DSA).** I am continually honing my skills to tackle coding challenges with creativity and efficiency.<br><br>🚀 With an insatiable curiosity and a relentless drive for learning, I am eager to explore new technologies, collaborate with like-minded individuals, and contribute to the ever-evolving tech landscape. 
 
 ## 🌐 Lets Connect: 
 <p align = "center">
